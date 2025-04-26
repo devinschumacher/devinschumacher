@@ -1,5 +1,5 @@
 ## Things I'm looking for help with...
 
-- https://github.com/devinschumacher/devinschumacher/issues/1
+- [Nuxt development](https://github.com/devinschumacher/devinschumacher/issues/1)
 
 

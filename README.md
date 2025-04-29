@@ -20,6 +20,7 @@ Cheers & stay funky my friends!
 
 <details>
   <summary> </summary>
+
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
   
 </details>

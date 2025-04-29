@@ -15,3 +15,10 @@ In since selling my agency, I’ve spent the last three years learning to code, 
 I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses "Crafting The Perfect Buyer Persona (Customer Avatar)" , "Digital Marketing, Growth Hacks & Productivity Tips [Bundle]" , "Minimum Viable Programming for Maximizing AI", "Roundup Reviews (Affiliate Marketing, Blogging, SEO)", "SEO Content Writing Mastery"
 
 Cheers & stay funky my friends!
+
+---
+
+<details>
+  - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
+  
+</details>

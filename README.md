@@ -22,5 +22,5 @@ Cheers & stay funky my friends!
   <summary> </summary>
 
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
-  
+  - [Bookmarks of my 'best of' lists](https://gist.github.com/mdsbest/771b6e1c414be07cebec53084764b908)
 </details>

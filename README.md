@@ -23,4 +23,15 @@ Cheers & stay funky my friends!
 
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
   - [Bookmarks of my 'best of' lists](https://gist.github.com/mdsbest/771b6e1c414be07cebec53084764b908)
+  - [ai sales assistants](https://gist.github.com/devinschumacher/2313da8358d00302593c38f07bc053d2)
+  - [business intelligence tools](https://gist.github.com/devinschumacher/d7dcf8027565948c143d731304a9c40f)
+  - [cloud gpus](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533)
+  - [cloud gpus](https://github.com/devinschumacher/cloud-gpu-servers-services-providers)
+  - [component libraries shadcnui](https://gist.github.com/devinschumacher/66c4f6d7680f89211951c27ca5d95bb5)
+  - [ctr manipulation tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
+  - [email outreach tools](https://gist.github.com/devinschumacher/13784065c33820dcea704df120cec1e7)
+  - [instantly review](https://gist.github.com/devinschumacher/950ef851ed0f6b56e26a0ec279890a57)
+  - [proxies](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
+  - [proxy providers](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
+  - 
 </details>

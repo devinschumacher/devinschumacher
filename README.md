@@ -20,7 +20,8 @@ Cheers & stay funky my friends!
 
 <details>
   <summary> </summary>
-
+  - [@mdsbest](https://github.com/mdsbest)
+  - [mdsbest/mdsbest](https://github.com/mdsbest/mdsbest)
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)
   - [Bookmarks of my 'best of' lists](https://gist.github.com/mdsbest/771b6e1c414be07cebec53084764b908)
   - [ai sales assistants](https://gist.github.com/devinschumacher/2313da8358d00302593c38f07bc053d2)

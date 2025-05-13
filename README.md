@@ -34,5 +34,5 @@ Cheers & stay funky my friends!
   - [instantly review](https://gist.github.com/devinschumacher/950ef851ed0f6b56e26a0ec279890a57)
   - [proxies](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
   - [proxy providers](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
-  - 
+  - [shadcnblocks](https://gist.github.com/sarahatherbest/7ab61d18081d9b8179e09306cf9680df)
 </details>

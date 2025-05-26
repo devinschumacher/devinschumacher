@@ -12,7 +12,14 @@ I started in internet marketing with less than zero, and have since won 4x 2Comm
 
 In since selling my agency, I’ve spent the last three years learning to code, shipping projects, and integrating AI workflows, giving me firsthand experience with developer pain points and tools. This technical fluency allows me to communicate product value in ways that resonate with both individual devs and enterprise buyers.
 
-I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses "Crafting The Perfect Buyer Persona (Customer Avatar)" , "Digital Marketing, Growth Hacks & Productivity Tips [Bundle]" , "Minimum Viable Programming for Maximizing AI", "Roundup Reviews (Affiliate Marketing, Blogging, SEO)", "SEO Content Writing Mastery"
+I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
+- [Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
+- [SEO Content Writing Mastery](https://www.udemy.com/course/seo-blog-content-writing-mastery-course-full-free)
+
+Now I'm working on building large digital media platforms, software & AI and trying to bring it to as many people, for as little cost as possible.
+
+@ [SERP](https://serp.co/)
+@ [SERP AI](https://github.com/serp-ai)
 
 Cheers & stay funky my friends!
 

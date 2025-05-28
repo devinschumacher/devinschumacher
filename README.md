@@ -19,20 +19,18 @@ Cheers & stay funky my friends!
 ![devinschumacher_sticker_head-500px](https://github.com/user-attachments/assets/22c29352-551d-4dc5-9b34-0c0498f06e3b)
 
 
----
 
 
-<details>
-  <summary>Partners</summary>
 
-[SERP](https://github.com/serpcompany) | [SERP AI](https://github.com/serp-ai) | [SERP University](https://github.com/serpuniversity) | [SERP Best](https://github.com/serpbest) | [Devin Schumacher](https://github.com/devinschumacher) | [University of Guns](https://github.com/universityofguns) | [Boxing Undefeated](https://github.com/boxingundefeated) | [Daft FM](https://github.com/daftfm)
 
-</details>
-
----
 
 <details>
   <summary> </summary>
+
+
+[SERP](https://github.com/serpcompany) | [SERP AI](https://github.com/serp-ai) | [SERP University](https://github.com/serpuniversity) | [SERP Best](https://github.com/serpbest) | [Devin Schumacher](https://github.com/devinschumacher) | [University of Guns](https://github.com/universityofguns) | [Boxing Undefeated](https://github.com/boxingundefeated) | [Daft FM](https://github.com/daftfm)
+
+  
   - [@mdsbest](https://github.com/mdsbest)
   - [mdsbest/mdsbest](https://github.com/mdsbest/mdsbest)
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)

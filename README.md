@@ -46,4 +46,9 @@ Cheers & stay funky my friends!
   - [proxies](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
   - [proxy providers](https://gist.github.com/devinschumacher/be1b8d90fa252d0417f2a4802794699b)
   - [shadcnblocks](https://gist.github.com/sarahatherbest/7ab61d18081d9b8179e09306cf9680df)
+  - [templatethemes](https://github.com/templatethemes)
+  - [serpuniversity](https://github.com/serpuniversity)
+  - [devinschumacher/serp.media](https://github.com/devinschumacher/serp.media)
+  - [devinschumacher/bestalternativereviews.com](https://github.com/devinschumacher/bestalternativereviews.com)
+  - 
 </details>

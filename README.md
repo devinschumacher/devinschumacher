@@ -30,7 +30,7 @@ Cheers & stay funky my friends!
 
 [SERP](https://github.com/serpcompany) | [SERP AI](https://github.com/serp-ai) | [SERP University](https://github.com/serpuniversity) | [SERP Best](https://github.com/serpbest) | [Devin Schumacher](https://github.com/devinschumacher) | [University of Guns](https://github.com/universityofguns) | [Boxing Undefeated](https://github.com/boxingundefeated) | [Daft FM](https://github.com/daftfm)
 
-  
+  - [awesome shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)
   - [@mdsbest](https://github.com/mdsbest)
   - [mdsbest/mdsbest](https://github.com/mdsbest/mdsbest)
   - [CTR Manipulation Tools](https://gist.github.com/devinschumacher/625918eb482491af16a6db41884bc10b)

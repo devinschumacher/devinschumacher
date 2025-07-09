@@ -8,6 +8,7 @@ In since selling my agency, I’ve spent the last three years learning to code, 
 **Some tools i've made:**
 
 - [Skool.com video downloader browser extension](https://github.com/devinschumacher/extension-skool-video-downloader)
+- [Vimeo video downloader browser extension](https://github.com/devinschumacher/extension-vimeo-video-downloader)
 
 I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
 

@@ -5,7 +5,12 @@ I started in internet marketing with less than zero, and have since won 4x 2Comm
 
 In since selling my agency, I’ve spent the last three years learning to code, shipping projects, and integrating AI workflows, giving me firsthand experience with developer pain points and tools. This technical fluency allows me to communicate product value in ways that resonate with both individual devs and enterprise buyers.
 
+**Some tools i've made:**
+
+- [Skool.com video downloader browser extension](https://github.com/devinschumacher/extension-skool-video-downloader)
+
 I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
+
 - [Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
 - [SEO Content Writing Mastery](https://www.udemy.com/course/seo-blog-content-writing-mastery-course-full-free)
 

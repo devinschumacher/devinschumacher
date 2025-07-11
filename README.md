@@ -1,37 +1,42 @@
+Hi, I’m Devin.
 
-Hi, I’m Devin  - Founder SERP. I'm a entrepreneur, digital marketing consultant & widely regarded as the world's best SEO & grumpy cat impersonator.
+Founder of SERP, entrepreneur & widely regarded as the world's best SEO & grumpy cat impersonator.
 
-I started in internet marketing with less than zero, and have since won 4x 2CommaClub Awards & helped 1,000s of business owners & entrepreneurs grow their businesses through SEO & digital marketing in 217+ different industries/niches, generate over 200MM+ dollars of new revenue.
+I got my start in SEO in 2017 with ~$100,000 in debt and turned that into 4x [2 Comma Club Awards](https://twocommaclub.com/theawards) while building an SEO agency that has helped 1,000s of business owners & entrepreneurs grow their brands through SEO & digital marketing across 217+ different industries/niches, generating over 200MM+ dollars of new revenue.
 
-In since selling my agency, I’ve spent the last three years learning to code, shipping projects, and integrating AI workflows, giving me firsthand experience with developer pain points and tools. This technical fluency allows me to communicate product value in ways that resonate with both individual devs and enterprise buyers.
+After selling my agency for a multi 7-figure exit I’ve turned SERP into a brand that creates educational content, apps, artificial intelligence and builds growth & automation solutions that help individuals & brands succeed online.
 
-**Some tools i've made:**
+---
 
-- [Skool.com video downloader browser extension](https://github.com/devinschumacher/extension-skool-video-downloader)
-- [Vimeo video downloader browser extension](https://github.com/devinschumacher/extension-vimeo-video-downloader)
+## Courses
 
 I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
 
-- [Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
+- [Dream Customers: Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
 - [SEO Content Writing Mastery](https://www.udemy.com/course/seo-blog-content-writing-mastery-course-full-free)
 
-Now I'm working on building large digital media platforms, software & AI and trying to bring it to as many people, for as little cost as possible.
+## Extensions
+
+- [Skool Video downloader](https://github.com/devinschumacher/extension-skool-video-downloader)
+- [Vimeo video downloader](https://github.com/devinschumacher/extension-vimeo-video-downloader)
+
+## Apps
+
+- [AI Bulk Dalle Image Generator]()
+
+## Brands
 
 @ [SERP](https://serp.co/)
 @ [SERP AI](https://github.com/serp-ai)
 
-Cheers & stay funky my friends!
-
-![devinschumacher_sticker_head-500px](https://github.com/user-attachments/assets/22c29352-551d-4dc5-9b34-0c0498f06e3b)
+_Cheers & stay funky my friends!_ 🦩
 
 
-
-
-
+<img src="https://github.com/user-attachments/assets/22c29352-551d-4dc5-9b34-0c0498f06e3b" height="200px"/>
 
 
 <details>
-  <summary> </summary>
+  <summary> △ ▽ △ ▽ △ ▽ △ ▽ △ ▽ △ ▽</summary>
 
 
 [SERP](https://github.com/serpcompany) | [SERP AI](https://github.com/serp-ai) | [SERP University](https://github.com/serpuniversity) | [SERP Best](https://github.com/serpbest) | [Devin Schumacher](https://github.com/devinschumacher) | [University of Guns](https://github.com/universityofguns) | [Boxing Undefeated](https://github.com/boxingundefeated) | [Daft FM](https://github.com/daftfm)

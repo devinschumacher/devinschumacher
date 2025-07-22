@@ -8,6 +8,10 @@ After selling my agency for a multi 7-figure exit I’ve turned SERP into a bran
 
 ---
 
+## Community
+
+[Join SERP University](https://serp.ly/@serp/community), my free community, where you can learn about things like AI, digital marketing, growth hacking, SEO, entrepreneurship, programming, computer skills, how to make money online, and more!
+
 ## Courses
 
 I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"

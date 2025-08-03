@@ -42,8 +42,22 @@ _Cheers & stay funky my friends!_ 🦩
 <details>
   <summary> △ ▽ △ ▽ △ ▽ △ ▽ △ ▽ △ ▽</summary>
 
+### Projects
 
-[SERP](https://github.com/serpcompany) | [SERP AI](https://github.com/serp-ai) | [SERP University](https://github.com/serpuniversity) | [SERP Best](https://github.com/serpbest) | [Devin Schumacher](https://github.com/devinschumacher) | [University of Guns](https://github.com/universityofguns) | [Boxing Undefeated](https://github.com/boxingundefeated) | [Daft FM](https://github.com/daftfm)
+- [SERP](https://github.com/serpcompany)
+- [SERP AI](https://github.com/serp-ai)
+- [SERP University](https://github.com/serpuniversity)
+- [SERP Downloaders](https://github.com/serpdownloaders)
+- [SERP Apps](https://github.com/serpapps)
+- [SERP Best](https://github.com/serpbest)
+- [SERP Games](https://github.com/games)
+- [Devin Schumacher](https://github.com/devinschumacher)
+- [University of Guns](https://github.com/universityofguns)
+- [Boxing Undefeated](https://github.com/boxingundefeated)
+- [Daft FM](https://github.com/daftfm)
+- [Shadcnblocks](https://github.com/shadcnblockscom)
+
+---
 
   - [awesome shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)
   - [@mdsbest](https://github.com/mdsbest)

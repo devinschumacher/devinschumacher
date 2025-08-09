@@ -23,6 +23,7 @@ I’m also passionate about education: through my Udemy courses, I’ve taught 6
 
 - [Skool Video downloader](https://github.com/serpapps/skool-downloader)
 - [Vimeo video downloader](https://github.com/serpapps/vimeo-video-downloader)
+- [Loom video downloader](https://github.com/serpapps/loom-video-downloader)
 
 ## Apps
 

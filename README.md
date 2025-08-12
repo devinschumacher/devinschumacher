@@ -2,37 +2,22 @@ Hi, I’m Devin.
 
 Founder of SERP, entrepreneur & widely regarded as the world's best SEO & grumpy cat impersonator.
 
-I got my start in SEO in 2017 with ~$100,000 in debt and turned that into 4x [2 Comma Club Awards](https://twocommaclub.com/theawards) while building an SEO agency that has helped 1,000s of business owners & entrepreneurs grow their brands through SEO & digital marketing across 217+ different industries/niches, generating over 200MM+ dollars of new revenue.
+I got my start in SEO in 2017 with ~$100,000 in debt and turned that into a multi-million dollar per year SEO agency with 20+ employees, became a 5x [2 Comma Club Award](https://twocommaclub.com/theawards) winner and helped 1,000s of business owners & entrepreneurs across 217+ different industries/niches make over 200MM+ dollars of new revenue.
 
-After selling my agency for a multi 7-figure exit I’ve turned SERP into a brand that creates educational content, apps, artificial intelligence and builds growth & automation solutions that help individuals & brands succeed online.
+In 2022 I exited the agency in a multi 7-figure acquisition and have since turned SERP into a brand that creates educational content, develops software, ai applications and growth & automation solutions that help brands succeed online.
 
----
+Learn more @ [devinschumacher.com](devinschumacher.com)
 
 ## Community
 
 [Join SERP University](https://serp.ly/@serp/community), my free community, where you can learn about things like AI, digital marketing, growth hacking, SEO, entrepreneurship, programming, computer skills, how to make money online, and more!
 
-## Courses
 
-I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
-
-- [Dream Customers: Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
-- [SEO Content Writing Mastery](https://www.udemy.com/course/seo-blog-content-writing-mastery-course-full-free)
-
-## Extensions
-
-- [Skool Video downloader](https://github.com/serpapps/skool-downloader)
-- [Vimeo video downloader](https://github.com/serpapps/vimeo-video-downloader)
-- [Loom video downloader](https://github.com/serpapps/loom-video-downloader)
-
-## Apps
-
-- [AI Bulk Dalle Image Generator]()
-
-## Brands
+## Projects
 
 @ [SERP](https://serp.co/)
 @ [SERP AI](https://github.com/serp-ai)
+@ [Boxing Undefeated](https://github.com/boxingundefeated)
 
 _Cheers & stay funky my friends!_ 🦩
 
@@ -57,6 +42,26 @@ _Cheers & stay funky my friends!_ 🦩
 - [Boxing Undefeated](https://github.com/boxingundefeated)
 - [Daft FM](https://github.com/daftfm)
 - [Shadcnblocks](https://github.com/shadcnblockscom)
+
+---
+
+
+## Courses
+
+I’m also passionate about education: through my Udemy courses, I’ve taught 6,367 students, earning 248 reviews for my courses:"
+
+- [Dream Customers: Crafting The Perfect Buyer Persona (Customer Avatar)](https://www.udemy.com/course/customer-research-buyer-personas-customer-avatars)
+- [SEO Content Writing Mastery](https://www.udemy.com/course/seo-blog-content-writing-mastery-course-full-free)
+
+## Extensions
+
+- [Skool Video downloader](https://github.com/serpapps/skool-downloader)
+- [Vimeo video downloader](https://github.com/serpapps/vimeo-video-downloader)
+- [Loom video downloader](https://github.com/serpapps/loom-video-downloader)
+
+## Apps
+
+- [AI Bulk Dalle Image Generator]()
 
 ---
 

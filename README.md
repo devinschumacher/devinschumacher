@@ -37,6 +37,7 @@ _Cheers & stay funky my friends!_ 🦩
 - [SERP Apps](https://github.com/serpapps)
 - [SERP Best](https://github.com/serpbest)
 - [SERP Games](https://github.com/games)
+- [SERPXXX](https://github.com/serpxxx)
 - [Devin Schumacher](https://github.com/devinschumacher)
 - [University of Guns](https://github.com/universityofguns)
 - [Boxing Undefeated](https://github.com/boxingundefeated)
@@ -64,7 +65,6 @@ I’m also passionate about education: through my Udemy courses, I’ve taught 6
 - [AI Bulk Dalle Image Generator]()
 
 ---
-
   - [awesome shadcnui](https://github.com/2-fly-4-ai/awesome-shadcnui)
   - [@mdsbest](https://github.com/mdsbest)
   - [mdsbest/mdsbest](https://github.com/mdsbest/mdsbest)

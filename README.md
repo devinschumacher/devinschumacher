@@ -34,6 +34,8 @@ _Cheers & stay funky my friends!_ 🦩
 - [SERP AI](https://github.com/serp-ai)
 - [SERP University](https://github.com/serpuniversity)
 - [SERP Downloaders](https://github.com/serpdownloaders)
+- [SERP Tools](https://github.com/serptools)
+- [SERP Templates](https://github.com/serp-templates)
 - [SERP Apps](https://github.com/serpapps)
 - [SERP Best](https://github.com/serpbest)
 - [SERP Games](https://github.com/games)

@@ -1,0 +1,95 @@
+# CONTRIBUTING
+
+
+# README
+
+Organizing my gists by topic.
+
+## Popular
+
+`#git, #github`:
+
+- [How to create an issue in GitHub from the command line](https://gist.github.com/devinschumacher/614d86b821c134e4935f9a20aa949528)
+- [How to create a pull request (merge) in Github from the command line (without using the Github GUI or any apps)](https://gist.github.com/devinschumacher/bc66c162d9c6c167952f1943d0e6419c)
+
+`#reviews`:
+
+- [The Best Cloud GPU Rentals](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533)
+
+
+## Other
+
+- [AI Sales Assistants: The Best Apps for Boosting Conversions & Turning Prospecting to Autopilot](https://gist.github.com/devinschumacher/2313da8358d00302593c38f07bc053d2)
+- [an example of how plugins globally enqueue styles & scripts onto your sites](https://gist.github.com/devinschumacher/7790f5d85bee207fe7eb913584398609)
+- [Artificial Intelligence Bookmarks](https://gist.github.com/devinschumacher/b0b777d7d83d30c5200425655bf8719b)
+- [best practices or managing secrets, security for collaborating with developers](https://gist.github.com/devinschumacher/5fb40d9ae11093ecc22970ee552b1ece)
+- [browser console function to get and save all your cookies, storage and authentication related information to a file on desktop](https://gist.github.com/devinschumacher/1d5467747a42913e8995d52b4cb47494)
+- [Bulk add labels to all issues in a github repository using the github gh cli](https://gist.github.com/devinschumacher/a8877d39866fa84aa3ee5d1e435ab9eb)
+- [Bulk transfer Discussions on Github workaround (at least somewhat bulk)](https://gist.github.com/devinschumacher/7386f318cc1ae97252e4f48299ccb530)
+- [Bulk Transfer Github Issues to Another Repository](https://gist.github.com/devinschumacher/d5fdf0edf2719f000e6f52e807ec928f)
+- [Cloud GPUs // The Best Servers, Services & Providers [RANKED!]](https://gist.github.com/devinschumacher/87dd5b87234f2d0e5dba56503bfba533)
+- [Cloudflare Redirects: How to Setup 301 Redirects (URL Forwarding) Using CloudFlare's DNS & Page Rules](https://gist.github.com/devinschumacher/186fd96c9dfa2d4e73766804a16e2bfe)
+- [Common Webpage Layouts With TailwindCSS Using CSS Grid & Flex box (w/ Code Examples)](https://gist.github.com/devinschumacher/95ed32c383a8cc91c0e80e5e502b6afa)
+- [console.log() your local storage state of the browser from dev tools console](https://gist.github.com/devinschumacher/8fc47e3769e1f399f42366f8de7cfd75)
+- [create-ai-generated-images-in-bulk-via-csv-dale-3-api.ipynb](https://gist.github.com/devinschumacher/ff0dade572672607e9a6e740167b9873)
+- [CSS Reset | Reset CSS Style Rules | 2024, 2025](https://gist.github.com/devinschumacher/59c2456ec421084a867a9fea8575f763)
+- [current NGINX config file](https://gist.github.com/devinschumacher/97de4f0f7b39dc81a3994c452c2f5047)
+- [dlx: What is the "dlx" in `pnpm dlx` do?](https://gist.github.com/devinschumacher/30cda55546a9311df789184a727c3f8d)
+- [Docker compose file to run postgresql database locally](https://gist.github.com/devinschumacher/e93f5ea560bcfa0c8547329aabc1d2b7)
+- [Get list of all YouTube Video URLs from a Channel Free (no extension or tools needed)](https://gist.github.com/devinschumacher/b07899c1c6f1b15573997dfa9848743e)
+- [get post urls from linkedin company page post feed](https://gist.github.com/devinschumacher/ed53e8a3e5967a597e9d89b7075b0ed5)
+- [Github Self-Hosted Runners: How to Setup & Use a Self-Hosted Github Runner for Your Actions & Workflows](https://gist.github.com/devinschumacher/c503cead206d4992d1a3cbb03c95e4c9)
+- [How to add files to .gitignore to be ignored by git after already committing them on local and remote](https://gist.github.com/devinschumacher/345651e3304800ca204859dadc481d74)
+- [How to Bulk Leave Facebook Groups (No extensions, ads, or paid products) - Step-by-Step Guide](https://gist.github.com/devinschumacher/731ab6e560c533d1dfa56f5c0462a5aa)
+- [How to check your installed ZSH themes on Mac](https://gist.github.com/devinschumacher/e67e14cdf4b9c0c243976c940fa17ad9)
+- [How to Clean up Your Local Git Branches to Get In Sync With the Remote](https://gist.github.com/devinschumacher/4910e04aed206a50933784d56846e9b5)
+- [How to Create & Setup a Reusable Github Workflow & the Corresponding "Calling" Workflow + Example](https://gist.github.com/devinschumacher/e6f201a7f42c5a08e0c8e7b1c9d0168f)
+- [How to Create a Branch from an Issue in Github (without the GUI / from the Command Line)](https://gist.github.com/devinschumacher/ea416af5542ac7102c8e1ffd0ab38a99)
+- [How to create a directory at the command line & cd into with one command - and without having to re-type the directory name](https://gist.github.com/devinschumacher/557189e0c877c674a150fa0db1f7906e)
+- [How to create a pull request (merge) in Github from the command line (without using the Github GUI or any apps)](https://gist.github.com/devinschumacher/bc66c162d9c6c167952f1943d0e6419c)
+- [How to create an issue in GitHub from the command line](https://gist.github.com/devinschumacher/614d86b821c134e4935f9a20aa949528)
+- [How to Customize the Auto Import Paths of a Vue Project to use the "@/" path alias syntax instead of relative path syntax](https://gist.github.com/devinschumacher/5beceb4cd28c53320acefc6f752c8ade)
+- [How to do a "dry run" of a git merge to see what would happen without actually committing to it](https://gist.github.com/devinschumacher/ea27f994d1be4e1cbf06f4735addae04)
+- [How to Download Vimeo Video for FREE (No Extensions Needed)](https://gist.github.com/devinschumacher/a189434fc9f374965888ca2dc793953e)
+- [How to Fix Udemy Black Screen for Mirroring, Screenshots & Screen Recording](https://gist.github.com/devinschumacher/2d11b9686d9091f88c49f8fb52a760b0)
+- [How to get (fetch) and view all of the branches on a repository in git](https://gist.github.com/devinschumacher/4eb9592fa5b823ace03bc4d06701793d)
+- [How to get data from an API to use in your Nuxt website / application](https://gist.github.com/devinschumacher/15ef19d34ba23aebdd89314609ef125a)
+- [How to get data from supabase into vue/nuxt website using the supabase client](https://gist.github.com/devinschumacher/f4f843b1d73ceebe635f79bdf5121e66)
+- [How to Insert Multiple Cursors At Similar Places (based on pattern, character, etc.) in Sequential Order in VS Code with No Mouse](https://gist.github.com/devinschumacher/dbf346e5e750e2ba12416c9c766cb2a5)
+- [How to list all repositories in your Github organization and close all their issues using the Github CLI](https://gist.github.com/devinschumacher/8410599cacfe26f4b3235cda7e7bc87e)
+- [How to make a 10 hour loop .mp4 file for free with no tools](https://gist.github.com/devinschumacher/0c5e09e8e815bbfecc7a1601cb832561)
+- [How to make an open source contribution, step-by-step (with a real life example)](https://gist.github.com/devinschumacher/ff95837113d9a9a38ac76128b47ad943)
+- [How to make Vitest include all your files in the test coverage reports](https://gist.github.com/devinschumacher/704ef445c41830caf3c976c67d0065ac)
+- [How to Print (keep / retain) Interactive CLI Prompt Information in Your Terminal](https://gist.github.com/devinschumacher/a240db1dd3d5515a72ea737e59e69e41)
+- [How to Remove (Delete) all UNTRACKED Files in Git](https://gist.github.com/devinschumacher/adf842349dd5145edaa19315987ae344)
+- [How to Remove UNIQUE lines only (opposite of remove duplicates) in VS Code with simple `cmd+f` & REGEX](https://gist.github.com/devinschumacher/b25935c0a1b2004af1a21af5396692ed)
+- [How To Resolve All Git Merge Conflicts By Accepting All Incoming Changes | How To Git Rebase](https://gist.github.com/devinschumacher/74f2302f488444c02f7919901b76a526)
+- [How to run @nuxtjs/html-validator to validate rendered HTML files locally](https://gist.github.com/devinschumacher/613b02f0752afaf2e004cdc95862eff4)
+- [How to Run Lighthouse CI CLI with Nuxt (Step-by-Step Walkthrough)](https://gist.github.com/devinschumacher/09ff33e9cc095cf4dd3f350c55e4dd53)
+- [how to save & reuse authentication / login state with playwright python](https://gist.github.com/devinschumacher/bcf6b186206df9c47a3f484249005f59)
+- [How to See a `git diff` Between a Remote  Branch and Your Local Branch](https://gist.github.com/devinschumacher/26a05e6c1d8976981a42f28f65eecdb3)
+- [How to setup "pages" in Nuxt to use the built in file-based routing](https://gist.github.com/devinschumacher/ae12ef886929bd5da8e6441d31182bbc)
+- [How to Setup & Connect additional Github.com Account(s) to the Github CLI](https://gist.github.com/devinschumacher/539a6332baf22480341e6de4593911d2)
+- [How to Setup Nuxt with shadcn-vue (Fixes the @/components/ui Import Issues)](https://gist.github.com/devinschumacher/808ca57e6f32065087c14943513e98d2)
+- [How to setup Pinia with Nuxt 3 using the Composition API pattern](https://gist.github.com/devinschumacher/a6421db7e0755e25192bca07660304e5)
+- [How to Use Environment Variables & runtimeConfig Correctly in Nuxt](https://gist.github.com/devinschumacher/7ab63b17fd4025f74a0a06404a968c82)
+- [How To Use External Api With Dynamic Filterable Search Component](https://gist.github.com/devinschumacher/87e7b62bb4ee7dfe7cf7220c7f0e324f)
+- [How to use LAYOUTS in Nuxt](https://gist.github.com/devinschumacher/5a5b7f075f1548a10b810febf9c94a2c)
+- [JavaScript to click all input elements with the value "viewed" on Github code reviews (aka click all check boxes in code review with javascript in dev tools console](https://gist.github.com/devinschumacher/bdddb21206e096f61e7f05ef7bdc4010)
+- [Job application process // hiring / careers](https://gist.github.com/devinschumacher/ebc26e05f68318566c5ed54a25d22d65)
+- [Links | University of Guns](https://gist.github.com/devinschumacher/857f8797cf3823699819bf5a72605f2b)
+- [Markdown Syntax to Embed Video with Clickable Image Thumbnail](https://gist.github.com/devinschumacher/75653bcc2fae74c5caeac5eadfabcc19)
+- [MediumClapper, by SERP](https://gist.github.com/devinschumacher/de01430ab9ff1bd4a800430b159c3424)
+- [Muhammad Ali](https://gist.github.com/devinschumacher/f4421b6f9520a8da660262a4b4d317e7)
+- [normalize.css | CSS Reset | Reset CSS Style Rules | 2024, 2025](https://gist.github.com/devinschumacher/6cbd52c082040f0e4c414836aebdb36f)
+- [Nuxt 3 Axios  -  How to install Axios with Nuxt 3 - Step by Step 2024 (simple custom plugin)](https://gist.github.com/devinschumacher/e73ce27795e62824edab9a0614ebd3ef)
+- [Opus Clip Review: The Best AI Social Media Repurposing App](https://gist.github.com/devinschumacher/95b6f6c268382373cc167df28621d585)
+- [python playwright REPL interactive mode boilerplate](https://gist.github.com/devinschumacher/21607a41a9b371d0c551c7f263cb7387)
+- [Ring Announcers: The Voices of Boxing, Combat Sports & Entertainment](https://gist.github.com/devinschumacher/64c7bb6bf5a820ec3fd6db34f007a761)
+- [SEO Bots List (web crawlers, etc.)](https://gist.github.com/devinschumacher/81285e376295effcf7a2d67bcf8e4184)
+- [SERP Clapper - New Code /latest](https://gist.github.com/devinschumacher/c1361b8928e2717f9de03c1b2c7eb0ba)
+- [Software Category Lists](https://gist.github.com/devinschumacher/cde037cd488be8c18abe7bd51b4a4439)
+- [Team Collaboration - Our Tools & How We Work "asynchronously"](https://gist.github.com/devinschumacher/4d5c6fd5b40270b83af74a03bbe8eadb)
+- [The "invisible" / "blank" characters](https://gist.github.com/devinschumacher/aa2351e31924e7e7d00ada6f3e9116aa)
+- [What to Look for in a Software Testing Agency & Who We Recommend](https://gist.github.com/devinschumacher/9a039d199dce8988c2a45dc1f446bafc)
+- [Write Tests for Defects & Regressions - Continuous Integration: Improving Software Quality and Reducing Risk - Martin Fowler](https://gist.github.com/devinschumacher/5b654d0e403910baede4357e93c0e352)

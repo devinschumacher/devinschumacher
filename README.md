@@ -19,6 +19,7 @@ Learn more @ [devinschumacher.com](devinschumacher.com)
 @ [SERP AI](https://github.com/serp-ai)
 @ [Boxing Undefeated](https://github.com/boxingundefeated)
 
+
 _Cheers & stay funky my friends!_ 🦩
 
 
@@ -30,6 +31,7 @@ _Cheers & stay funky my friends!_ 🦩
 
 ### Projects
 
+- [Wiki](https://github.com/devinschumacher/devinschumacher/wiki)
 - [SERP](https://github.com/serpcompany)
 - [SERP AI](https://github.com/serp-ai)
 - [SERP University](https://github.com/serpuniversity)
